@@ -1,0 +1,2 @@
+# DefaultLayoutInBlazorWebAssembly
+For reproducing.
